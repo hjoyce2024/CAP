@@ -1,0 +1,33 @@
+Casino Royale, Action, PG-13 , > 120 minutes, HBO MAX
+Home Alone, Comedy, PG, > 90 minutes, HBO MAX
+Little Miss Sunshine, R, No, > 90 minutes, HBO MAX
+Barbarian, Horror, R, > 90 minutes, HBO MAX
+The Notebook, Romance, PG-13, > 90 minutes, HBO MAX
+Doctor Strange in the Multiverse of Madness, Action, PG-13, > 90 minutes, Disney Plus
+Cheaper By the Dozen, Comedy, PG, > 90 minutes, Disney Plus
+Because of Winn Dixie, Drama, PG, > 90 minutes, Disney Plus
+10 Things I Hate About You, Romance, PG-13, < 90 minutes, Disney Plus
+Bullet Train, Action, R, > 120 minutes, Netflix
+Easy A, Comedy, PG-13, < 90 minutes, Netflix
+The Trial of the Chicago Seven, Drama, R, > 120 minutes, Netflix
+The Birds, Horror, PG-13, > 90 minutes, Netflix
+Notting Hill, Romance, PG-13, > 120 minutes, Netflix
+Jumanji, Action, PG-13, > 90 minutes, Hulu
+Pitch Perfect, Comedy, PG-13, > 90 minutes, Hulu
+The Worst Person in the World, Drama, R, > 120 minutes, Hulu
+Get Out, Horror, R, > 90 minutes, Hulu
+Sixteen Candles, Romance, PG, > 90 minutes, Hulu
+The Lorax Movie,Comedy,PG,< 90 minutes, Netflix
+Princess and the Frog, Family, PG, > 90 minutes, Disney Plus
+La La Land, Musical, PG - 13, > 120 minutes, Netflix
+The Parent Trap, family, pg, > 90 minutes, Disney Plus
+The Way Way Back, Comedy, PG-13, 90 minutes, Amazon Prime Video
+The Deer Hunter, Drama, R, > 180 minutes, Netflix
+Sleepless in Seattle, Rom Com, PG, > 90, Netflix
+Spencer, Drama, R, > 90 minutes, Hulu
+Harriet the Spy, Comedy, PG, > 90 minutes, HBO Max
+The Kissing Booth, Romance, PG-13, > 90 minutes, Netflix
+
+The Graduate, Comedy, PG, > 90 minutes, Amazon Prime
+
+But I'm a Cheerleader, Romance, R, < 90 minutes, Amazon Prime
